@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@types/body-parser": "^1.19.2",
+    "@types/sequelize": "^4.28.11",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.3",
+    "handlebars": "^4.7.7",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
+  }
+}
